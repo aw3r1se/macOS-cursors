@@ -13,7 +13,7 @@ npm i macos-cursors
 ## ✏️ Usage
 
 ```
-@import 'macos-cursors-css/style.css';
+@import 'macos-cursors/style.css';
 ```
 
 | Class name          | Cursor                              |
