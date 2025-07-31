@@ -8,12 +8,13 @@
   },
   "keywords": [
     "MacOS",
-    "Cursors"
+    "Cursors",
+    "CSS"
   ],
   "author": "aw3r1se",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/aw3r1se/macOS-cursors/issues"
   },
-  "homepage": "https://github.com/aw3r1se/macOS-cursors#readme"
+  "homepage": "https://aw3r1se.github.io/macOS-cursors"
 }
