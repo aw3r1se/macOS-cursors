@@ -1,7 +1,7 @@
 {
   "name": "macos-cursors",
   "version": "1.0.0",
-  "description": "MacOS cursor pack for web pages — import and use",
+  "description": "MacOS cursor pack for web pages",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aw3r1se/macOS-cursors.git"
