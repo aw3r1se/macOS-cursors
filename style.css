@@ -43,15 +43,15 @@ html {
 }
 
 .cursor-not-allowed {
-    cursor: url('./cursors/not-allowed.cur'), text;
+    cursor: url('./cursors/not_allowed.cur'), text;
 }
 
 .cursor-zoom-in {
-    cursor: url('./cursors/zoom-in.cur'), zoom-in;
+    cursor: url('cursors/zoom_in.cur'), zoom-in;
 }
 
 .cursor-zoom-out {
-    cursor: url('./cursors/zoom-out.cur'), zoom-out;
+    cursor: url('cursors/zoom_out.cur'), zoom-out;
 }
 
 .cursor-help {
