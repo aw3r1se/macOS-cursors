@@ -1,0 +1,19 @@
+{
+  "name": "macos-cursors-css",
+  "version": "1.0.0",
+  "description": "Tiny MacOS cursor pack — just plug it and use.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aw3r1se/macOS-cursors-css.git"
+  },
+  "keywords": [
+    "MacOS",
+    "Cursors"
+  ],
+  "author": "Bogdan Koch",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/aw3r1se/macOS-cursors-css/issues"
+  },
+  "homepage": "https://github.com/aw3r1se/macOS-cursors-css#readme"
+}
