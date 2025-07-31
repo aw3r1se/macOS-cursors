@@ -47,21 +47,21 @@ html {
 }
 
 .cursor-zoom-in {
-    cursor: url('cursors/zoom_in.cur'), zoom-in;
+    cursor: url('./cursors/zoom_in.cur'), zoom-in;
 }
 
 .cursor-zoom-out {
-    cursor: url('cursors/zoom_out.cur'), zoom-out;
+    cursor: url('./cursors/zoom_out.cur'), zoom-out;
 }
 
 .cursor-help {
-    cursor: url('/cursors/help.cur'), help;
+    cursor: url('./cursors/help.cur'), help;
 }
 
 .cursor-writing {
-    cursor: url('/cursors/writing.cur'), auto;
+    cursor: url('./cursors/writing.cur'), auto;
 }
 
 .cursor-alter {
-    cursor: url('/cursors/alter.cur'), auto;
+    cursor: url('./cursors/alter.cur'), auto;
 }
