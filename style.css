@@ -1,0 +1,67 @@
+html {
+    cursor: url('./cursors/auto.cur'), auto;
+}
+
+.cursor-ns-resize {
+    cursor: url('./cursors/ns_resize.cur'), ns-resize;
+}
+
+.cursor-ew-resize {
+    cursor: url('./cursors/ew_resize.cur'), ew-resize;
+}
+
+.cursor-nw-resize {
+    cursor: url('./cursors/nw_resize.cur'), nw-resize;
+}
+
+.cursor-ne-resize {
+    cursor: url('./cursors/ne_resize.cur'), ne-resize;
+}
+
+.cursor-pointer {
+    cursor: url('./cursors/pointer.cur'), pointer;
+}
+
+.cursor-move {
+    cursor: url('./cursors/move.cur'), move;
+}
+
+.cursor-grab {
+    cursor: url('./cursors/grab.cur'), grab;
+}
+
+.cursor-grabbing {
+    cursor: url('./cursors/grabbing.cur'), grabbing;
+}
+
+.cursor-text {
+    cursor: url('./cursors/text.cur'), text;
+}
+
+.cursor-crosshair {
+    cursor: url('./cursors/crosshair.cur'), crosshair;
+}
+
+.cursor-not-allowed {
+    cursor: url('./cursors/not-allowed.cur'), text;
+}
+
+.cursor-zoom-in {
+    cursor: url('./cursors/zoom-in.cur'), zoom-in;
+}
+
+.cursor-zoom-out {
+    cursor: url('./cursors/zoom-out.cur'), zoom-out;
+}
+
+.cursor-help {
+    cursor: url('/cursors/help.cur'), help;
+}
+
+.cursor-writing {
+    cursor: url('/cursors/writing.cur'), auto;
+}
+
+.cursor-alter {
+    cursor: url('/cursors/alter.cur'), auto;
+}
