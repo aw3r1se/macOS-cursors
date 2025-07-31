@@ -1,10 +1,8 @@
 # MacOS Cursor Pack
 
-Lightweight set of custom mouse cursors wrapped in one CSS file.
+Lightweight set of macOS mouse cursors wrapped in one CSS file.
 
 Drop it into any web-project and swap default pointers with stylish ones in seconds.
-
----
 
 ## 🔧 Installation
 
@@ -43,5 +41,3 @@ If you want to add or improve something - you are welcome
 * Fork → Branch → Commit with feat: / fix: prefix
 * Test locally
 * Open a pull request
-
-Open a pull request.
