@@ -7,7 +7,7 @@ Drop it into any web-project and swap default pointers with stylish ones in seco
 ## 🔧 Installation
 
 ```sh
-npm i macos-cursors-css
+npm i macos-cursors
 ```
 
 ## ✏️ Usage
